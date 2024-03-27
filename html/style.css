@@ -1,0 +1,36 @@
+.bd
+{
+    display: grid;
+    place-items: center;
+    background-image: url('https://th.bing.com/th/id/OIP.61E1UaSAiZvMq2HVos9M8gAAAA?rs=1&pid=ImgDetMain');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#para3,#para4,#para5
+{
+    color: white;
+}
+#para2
+{
+    background-color:red;
+    padding: 0%;
+    text-align: center;
+    color: white;
+    
+}
+h1
+{
+    color: white;
+}
+div
+{
+    background-color:rgb(31, 6, 6);
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+#para1
+{
+    background-color:rgb(31, 6, 6);
+}
