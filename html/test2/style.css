@@ -1,0 +1,85 @@
+
+.main{
+    background-color: white;
+    height: 650px;
+    margin-left: 500px;
+    margin-right: 500px;
+    box-sizing: border-box;
+    padding-left: 50px;
+    border-radius: 10px;
+    padding-top: 10px;
+    width: auto;
+    margin-top: 50px;
+}
+body{
+    background-color:#ccc;
+}
+#a{
+    display: flex;
+    justify-content:left;
+    gap: 104px;
+}
+#b{
+    justify-content: space-between;
+}
+#c{
+    display: flex;
+    justify-content:left;
+    gap: 104px; 
+}
+#e{
+    display: flex;
+    justify-content:left;
+    gap: 150px; 
+}
+#g{
+    display: flex;
+    justify-content:left;
+    gap: 154px; 
+}
+#j
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    padding-right: 30px;
+}
+button{
+    background-color: red;
+    border-radius: 5px;
+    border: transparent solid 2px;
+    color: white;
+    transition: 0.3s ease-in;
+}
+
+button:hover
+{
+    background-color: #ccc;
+    border: 2px solid red;
+    color: black;
+    transition: 0.3s ease-out;
+  cursor: pointer;
+}
+.mahi mah{
+    border: 1px solid black;
+}
+#b input{
+    height: 30px;
+    width: 160px;
+}
+#d input{
+    height: 30px;
+    width: 160px;
+}
+#d select{
+    height: 36px;
+    width: 165px;
+}
+#f input{
+    height: 30px;
+    width: 160px;
+}
+#h input{
+    height: 30px;
+    width: 160px;
+}
