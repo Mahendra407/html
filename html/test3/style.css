@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main1{
+    display: flex;
+}
+.xyz{
+    display: flex;
+    gap: 280px;
+}
+.j{
+    width: 50px;
+    height: 50px;
+}
+.button{
+    display: flex;
+    padding: 10px 20px;
+    gap: 60px;
+    border-radius:40px;
+}
+.tag{
+    height: 30px;
+    width: 50px;
+    border-radius: 40%;
+}    
+.g input{
+    height: 60px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.g img{
+    height: 40px;
+    width: 40px;
+}
+.mic{
+    border-radius: 60%;
+    height: 70px;
+    width: 70px;
+    padding-bottom:50px;
+    align-items: center;
+    border: 1px solid black;
+    padding: 15px;
+}
+.search{
+    padding-bottom: 10px;
+    height: 50px;
+    width: 80px;
+}
+.all{
+    height: 40px;
+    width: 50px;
+    border-radius: 20px;
+    background: black;
+    color: white;
+}
+.mixes{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+}
+.crypto{
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+}
+.html{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+}
+.css{
+    height: 40px;
+    width: 60px;
+    border-radius: 20px;
+}
+.js{
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+}
+.thumbnail img{
+    height: 30px;
+    width: 30px;
+}
+.avatar img{
+    height: 30px;
+    width: 30px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+}
+.code{
+    font-size: 16px;
+    font-weight: bold;
+}
+.content-status{
+    display: flex;
+    font-size: 14px;
+    gap: 10px;
+}
+.main2 h3{
+    font-size: 20px;
+}
+.avatar-content {
+    padding-top: 10px;
+    display: flex;
+    gap: 0px;
+}
+.card {
+    padding: 10px;
+    max-width: 320px;
+    display: flex;
+    flex-direction: column;
+}  
+.main2{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    background-color: rgb(240, 238, 238);
+    margin-left: 60px;
+} 
+.main{
+    display: flex;
+}  
+nav{
+    display: flex;
+}  
+b{
+    margin-top: 20px;
+} 
+.a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+aside{
+    padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.a img {
+    width: 30px;
+}
+.a p {
+    font-size: 10px;
+    margin-top: -5px;
+}
+.i{
+    display: flex;
+}
+.tag:hover{
+    background:black;
+    color: white;
+    border: 1px solid red;
+}
+.mic:hover{
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+}
+
+        
+        
+
